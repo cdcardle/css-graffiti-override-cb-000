@@ -2,6 +2,7 @@
   display: none;
 }
 
-#wall #div[id="tag-2"] {
+div#wall #div[id="tag-2"] {
   display: none;
 }
+
